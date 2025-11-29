@@ -1,0 +1,14 @@
+pinecone-client[grpc]
+sentence-transformers
+pypdf
+python-dotenv
+ragas
+langchain-openai
+unstructured[pdf]
+pdf2image
+transformers
+torch
+rank_bm25
+openai
+tiktoken
+numpy
